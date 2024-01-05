@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Jyothi Yaga from India and I am currently an undergraduate student pursuing bachelors of technology.
+I really enjoy my learning journery in Data Science and its usage across various industires.
+I also find joy in crafting visual representations of interpreted data,as well as using POWERBI.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyothiYaga)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JyothiYaga/JyothiYaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
